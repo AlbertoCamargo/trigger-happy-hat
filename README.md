@@ -17,11 +17,12 @@ Output:
 
 
 Please run
->> bundle install
+<code> bundle install </code>
 
 if it does not works, install manually those gems.
->> gem install  ascii_charts
 
->> gem install console_view_helper
+<code> gem install  ascii_charts </code>
+
+<code> gem install console_view_helper </code>
 
 And then enjoy.
